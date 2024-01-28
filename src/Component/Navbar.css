@@ -1,0 +1,12 @@
+.nav-section{
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 35px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-section:hover{
+    color: rgb(253, 251, 247);
+    
+}
